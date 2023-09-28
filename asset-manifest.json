@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Textool/static/css/main.31d6cfe0.css",
-    "main.js": "/Textool/static/js/main.0bd5c355.js",
+    "main.js": "/Textool/static/js/main.ea3b5fe0.js",
     "static/js/787.635aedaa.chunk.js": "/Textool/static/js/787.635aedaa.chunk.js",
     "index.html": "/Textool/index.html",
-    "main.0bd5c355.js.map": "/Textool/static/js/main.0bd5c355.js.map",
+    "main.ea3b5fe0.js.map": "/Textool/static/js/main.ea3b5fe0.js.map",
     "787.635aedaa.chunk.js.map": "/Textool/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.0bd5c355.js"
+    "static/js/main.ea3b5fe0.js"
   ]
 }
