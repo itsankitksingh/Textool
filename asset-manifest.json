@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/itsankitksingh/Textool.git/static/css/main.31d6cfe0.css",
-    "main.js": "/itsankitksingh/Textool.git/static/js/main.4a6dea74.js",
-    "static/js/787.635aedaa.chunk.js": "/itsankitksingh/Textool.git/static/js/787.635aedaa.chunk.js",
-    "index.html": "/itsankitksingh/Textool.git/index.html",
-    "main.4a6dea74.js.map": "/itsankitksingh/Textool.git/static/js/main.4a6dea74.js.map",
-    "787.635aedaa.chunk.js.map": "/itsankitksingh/Textool.git/static/js/787.635aedaa.chunk.js.map"
+    "main.css": "/Textool/static/css/main.31d6cfe0.css",
+    "main.js": "/Textool/static/js/main.0bd5c355.js",
+    "static/js/787.635aedaa.chunk.js": "/Textool/static/js/787.635aedaa.chunk.js",
+    "index.html": "/Textool/index.html",
+    "main.0bd5c355.js.map": "/Textool/static/js/main.0bd5c355.js.map",
+    "787.635aedaa.chunk.js.map": "/Textool/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.4a6dea74.js"
+    "static/js/main.0bd5c355.js"
   ]
 }
